@@ -1,0 +1,28 @@
+After the market moves during period $t$, the agent's original allocation $\mathbf{w}_{t-1}$ is distorted by differential asset returns. Assets that outperformed gain a larger share of the portfolio, while under-performers shrink. 
+
+This formula captures the *natural drift* of portfolio weights before any rebalancing occurs.
+$$
+\mathbf{w}'_t = \frac{\mathbf{y}_t \odot \mathbf{w}_{t-1}}{\mathbf{y}_t \cdot \mathbf{w}_{t-1}}
+$$
+
+Where,
+
+| $\mathbf{w}'_t$    | Evolved (post-market, pre-rebalance) weight vector at the end of period $t$. These are the weights the portfolio naturally drifts to after market movements. |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| $\mathbf{y}_t$     | Price relative vector at period $t$ (see [[Price Relative Vector (Z. Jiang et al., 2017)]]).                                                                                                         |
+| $\mathbf{w}_{t-1}$ | Original portfolio weight vector set at the beginning of period $t$.                                                                                         |
+| $\odot$            | Element-wise (Hadamard) multiplication operator. Each asset's weight is scaled by its individual price relative.                                             |
+| $\cdot$            | Dot product — the denominator normalises the result so that $\sum_i w'_{t,i} = 1$.                                                                           |
+
+The evolved weights $\mathbf{w}'_t$ are the bridge between the market's natural price dynamics and the agent's rebalancing decision. After the market moves, the agent must decide whether to rebalance from $\mathbf{w}'_t$ back to a new target $\mathbf{w}_t$. 
+
+The *difference* between $\mathbf{w}'_t$ and $\mathbf{w}_t$ determines how much trading must occur, and therefore how much commission the agent pays. If the agent chooses $\mathbf{w}_t = \mathbf{w}'_t$ (i.e., no rebalancing), transaction costs are zero. 
+
+This formula is therefore the critical input to the Transaction Remainder Factor (see [[Transaction Remainder Factor (Z. Jiang et al., 2017)]]), which penalizes the agent for excessive portfolio turnover.
+
+
+**References**:
+- [[NOTES - A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem]]
+- [[A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem.pdf]]
+- [[Price Relative Vector (Z. Jiang et al., 2017)]]
+- [[Transaction Remainder Factor (Z. Jiang et al., 2017)]]

@@ -1,0 +1,8 @@
+[[Price Relative Vector (Z. Jiang et al., 2017)]]
+- [[Portfolio Value Transition (Z. Jiang et al., 2017)]]
+	- [[Final Portfolio Value (Compounding Objective)]]
+	- [[Logarithmic Rate of Return (Z. Jiang et al., 2017)]]
+- [[Evolved (Post-Market) Portfolio Weights (Z. Jiang et al., 2017)]]
+	- [[Transaction Remainder Factor (Z. Jiang et al., 2017)]]
+[[Log Return with Transaction Costs (Z. Jiang et al., 2017)]]
+- [[Average Logarithmic Accumulated Return (Objective Function) (Z. Jiang et al., 2017)]]

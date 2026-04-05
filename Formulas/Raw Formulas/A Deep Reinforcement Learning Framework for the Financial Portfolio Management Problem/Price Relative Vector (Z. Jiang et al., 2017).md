@@ -1,0 +1,35 @@
+In a continuous financial market, asset prices shift between consecutive trading periods. Rather than tracking absolute prices, the framework captures the *ratio* of consecutive closing prices for each asset. 
+
+This representation makes the model scale-invariant. This means the agent can generalize across assets regardless of their nominal price or currency denomination.
+
+$$
+\mathbf{y}_t := \mathbf{v}_t \oslash \mathbf{v}_{t-1} = \left(1,\; \frac{v_{1,t}}{v_{1,t-1}},\; \frac{v_{2,t}}{v_{2,t-1}},\; \dots,\; \frac{v_{m,t}}{v_{m,t-1}}\right)^\top
+$$
+
+Where,
+
+| $\mathbf{y}_t$ | Price relative vector at period $t$. Each element is the ratio of the closing price at $t$ to the closing price at $t-1$ for a given asset. |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| $\mathbf{v}_t$ | Vector of closing prices for all $m$ assets at the end of period $t$. Also serves as the opening price for period $t+1$.                    |
+| $\oslash$      | Element-wise (Hadamard) division operator.                                                                                                  |
+| $v_{i,t}$      | Closing price of asset $i$ at period $t$.                                                                                                   |
+| $y_{0,t} = 1$  | The first element is fixed at 1, representing the quoted currency (e.g., Bitcoin or cash), which acts as the risk-free reference unit.      |
+| $m$            | Total number of risky assets in the portfolio (excluding the cash asset).                                                                   |
+| $(\cdot)^\top$ | Transpose operator, indicating the result is a column vector.                                                                               |
+
+The price relative vector $\mathbf{y}_t$ is the **singular link** between the agent's action (the allocation vector $\mathbf{w}$) and the environment's reward. Within the Partially Observable Markov Decision Process (POMDP) formulation, $\mathbf{y}_t$ functions as the **multiplicative transition operator** that scales portfolio capital across time. 
+
+Every downstream formula like 
+- Portfolio value transitions (see [[Portfolio Value Transition (Z. Jiang et al., 2017)]]), 
+- Returns
+- Objective function 
+depend on $\mathbf{y}_t$. 
+
+By encoding market movements as ratios rather than absolute changes, the framework achieves scale-invariance: the same learned policy applies regardless of whether an asset trades at \$1 or \$10,000.
+
+**References**:
+- [[NOTES - A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem]]
+- [[A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem.pdf]]
+- [[Portfolio Value Transition (Z. Jiang et al., 2017)]]
+- [[Logarithmic Rate of Return (Z. Jiang et al., 2017)]]
+

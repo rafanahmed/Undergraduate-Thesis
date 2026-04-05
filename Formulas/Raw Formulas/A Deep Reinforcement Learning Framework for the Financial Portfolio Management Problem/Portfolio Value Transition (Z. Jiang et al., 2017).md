@@ -1,0 +1,27 @@
+At each trading period, the portfolio's total value evolves based on how the market moved (captured by the price relatives) and how the agent allocated its capital (the portfolio weight vector). This formula describes the one-step multiplicative dynamics of wealth.
+
+$$
+p_t = p_{t-1} \; \mathbf{y}_t \cdot \mathbf{w}_{t-1}
+$$
+
+Where,
+
+| $p_t$              | Total portfolio value at the end of period $t$.                                                                                                                                         |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| $p_{t-1}$          | Total portfolio value at the beginning of period $t$ (equivalently, end of period $t-1$).                                                                                               |
+| $\mathbf{y}_t$     | Price relative vector at period $t$ (see [[Price Relative Vector (Z. Jiang et al., 2017)]]).                                                                                            |
+| $\mathbf{w}_{t-1}$ | Portfolio weight (allocation) vector set at the beginning of period $t$. Each element $w_{i,t-1}$ is the fraction of total capital allocated to asset $i$, with $\sum_i w_{i,t-1} = 1$. |
+| $\cdot$            | Dot product (inner product) between the price relative vector and the weight vector.                                                                                                    |
+
+This equation captures the **multiplicative growth** of capital across the asset universe. The dot product $\mathbf{y}_t \cdot \mathbf{w}_{t-1}$ computes the weighted average return of the portfolio for period $t$, condensing the growth contributions of all individual holdings into a single scalar multiplier. 
+
+The multiplicative structure means that losses compound just as aggressively as gains (ex. a 50% loss requires a 100% gain to recover). 
+
+This asymmetry is what motivates the logarithmic treatment of returns in subsequent formulas. In the idealized case (no transaction costs), this equation fully describes how wealth evolves over a single period.
+
+
+**References**:
+- [[NOTES - A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem]]
+- [[A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem.pdf]]
+- [[Price Relative Vector (Z. Jiang et al., 2017)]]
+- [[Logarithmic Rate of Return (Z. Jiang et al., 2017)]]
