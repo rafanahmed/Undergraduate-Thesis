@@ -1,6 +1,6 @@
 [[1.0 - Price Relative Vector (Z. Jiang et al., 2017)]]
 - [[1.1 - Portfolio Value Transition (Z. Jiang et al., 2017)]]
-	- [[1.1.1 - Final Portfolio Value (Compounding Objective)]]
+	- [[1.1.1 - Final Portfolio Value (Compounding Objective) (Z. Jiang et al., 2017)]]
 	- [[1.1.2 - Logarithmic Rate of Return (Z. Jiang et al., 2017)]]
 - [[1.2 - Evolved (Post-Market) Portfolio Weights (Z. Jiang et al., 2017)]]
 	- [[1.2.1 - Transaction Remainder Factor (Z. Jiang et al., 2017)]]

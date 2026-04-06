@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formulas/Raw Formulas/Formula Bank (Use When Paper Reading).md",
+                "file": "Formulas/Raw Formulas/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/0 - Reading Order.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Formula Bank (Use When Paper Reading)"
+              "title": "0 - Reading Order"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formulas/Raw Formulas/Formula Bank (Use When Paper Reading).md",
+                "file": "Formulas/Raw Formulas/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/0 - Reading Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Formula Bank (Use When Paper Reading)"
+              "title": "Backlinks for 0 - Reading Order"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formulas/Raw Formulas/Formula Bank (Use When Paper Reading).md",
+                "file": "Formulas/Raw Formulas/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/0 - Reading Order.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Formula Bank (Use When Paper Reading)"
+              "title": "Outline of 0 - Reading Order"
             }
           }
         ],
@@ -186,21 +186,21 @@
   },
   "active": "0e5108aab3554e0c",
   "lastOpenFiles": [
+    "Formulas/Raw Formulas/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/2.1 - Average Logarithmic Accumulated Return (Objective Function) (Z. Jiang et al., 2017).md",
+    "Formulas/Raw Formulas/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/2.0 - Log Return with Transaction Costs (Z. Jiang et al., 2017).md",
+    "Formulas/Raw Formulas/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/1.2.1 - Transaction Remainder Factor (Z. Jiang et al., 2017).md",
+    "Formulas/Raw Formulas/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/1.2 - Evolved (Post-Market) Portfolio Weights (Z. Jiang et al., 2017).md",
+    "Formulas/Raw Formulas/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/1.1.2 - Logarithmic Rate of Return (Z. Jiang et al., 2017).md",
+    "Formulas/Raw Formulas/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/1.1.1 - Final Portfolio Value (Compounding Objective) (Z. Jiang et al., 2017).md",
+    "Formulas/Raw Formulas/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/1.0 - Price Relative Vector (Z. Jiang et al., 2017).md",
+    "Formulas/Raw Formulas/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/1.1 - Portfolio Value Transition (Z. Jiang et al., 2017).md",
+    "Formulas/Raw Formulas/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/0 - Reading Order.md",
     "Papers/Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE.pdf",
     "Formulas/Raw Formulas/Formula Bank (Use When Paper Reading).md",
     "Formulas/Raw Formulas/Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE",
     "Formulas/Raw Formulas/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/Untitled",
     "Notes/Paper Notes/NOTES - A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem.md",
     "Notes/Paper Notes/NOTES - Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE.md",
-    "Formulas/Raw Formulas/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/0 - Reading Order.md",
-    "Formulas/Raw Formulas/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/1.0 - Price Relative Vector (Z. Jiang et al., 2017).md",
-    "Formulas/Raw Formulas/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/1.1.2 - Logarithmic Rate of Return (Z. Jiang et al., 2017).md",
-    "Formulas/Raw Formulas/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/2.0 - Log Return with Transaction Costs (Z. Jiang et al., 2017).md",
-    "Formulas/Raw Formulas/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/1.2.1 - Transaction Remainder Factor (Z. Jiang et al., 2017).md",
-    "Formulas/Raw Formulas/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/2.1 - Average Logarithmic Accumulated Return (Objective Function) (Z. Jiang et al., 2017).md",
-    "Formulas/Raw Formulas/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/1.2 - Evolved (Post-Market) Portfolio Weights (Z. Jiang et al., 2017).md",
-    "Formulas/Raw Formulas/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/1.1.1 - Final Portfolio Value (Compounding Objective).md",
-    "Formulas/Raw Formulas/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/1.1 - Portfolio Value Transition (Z. Jiang et al., 2017).md",
     "Formulas/Raw Formulas/0 - Agent Instructions/FORMULA_FORMAT.md",
     "Formulas/Raw Formulas/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/Average Logarithmic Accumulated Return (Objective Function) (Z. Jiang et al., 2017).md",
     "Formulas/Raw Formulas/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/Evolved (Post-Market) Portfolio Weights (Z. Jiang et al., 2017).md",
