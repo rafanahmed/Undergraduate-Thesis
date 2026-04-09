@@ -184,8 +184,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "a498af001239e664",
+  "active": "78aaf1ddbb7475f0",
   "lastOpenFiles": [
+    "Notes/Paper Notes/Log Utility & Portfolio RL/PNOTES - A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem.md",
     "Papers/5 - Hybrid Action RL",
     "Notes/Paper Notes/5 - Hybrid Action RL",
     "Papers/4 - Kelly + Uncertainty",
@@ -196,10 +197,8 @@
     "Papers/1 - Log Utility & Portfolio RL/Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE.pdf",
     "Papers/1 - Log Utility & Portfolio RL/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem.pdf",
     "Papers/1 - Log Utility & Portfolio RL",
-    "Notes/Paper Notes/2 - Risk-Sensitive RL",
     "Notes/Paper Notes/1 - Log Utility & Portfolio RL/PNOTES - Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE.md",
     "Notes/Paper Notes/1 - Log Utility & Portfolio RL/PNOTES - A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem.md",
-    "Notes/Paper Notes/Log Utility & Portfolio RL/PNOTES - A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem.md",
     "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE/3.2 - Sharpe Ratio - Evaluation Metric (Sharpe, 1966).md",
     "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE/3.1 - Portfolio Value - Evaluation Metric (R. Liu et al., 2025).md",
     "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE/3.0 - Logarithmic Utility - Evaluation Metric (R. Liu et al., 2025).md",
