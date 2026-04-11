@@ -8,15 +8,31 @@
         "type": "tabs",
         "children": [
           {
+            "id": "1f5deb3c54af4a0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formulas/Raw Formulas/2 - Risk-Sensitive RL/A Distributional Perspective on Reinforcement Learning/0 - Reading Order.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0 - Reading Order"
+            }
+          },
+          {
             "id": "78aaf1ddbb7475f0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Papers/4 - Kelly + Uncertainty/Modified Kelly Criteria.pdf"
+                "file": "Formulas/Raw Formulas/0 - Agent Instructions/FORMULA_FORMAT.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Modified Kelly Criteria"
+              "icon": "lucide-file",
+              "title": "FORMULA_FORMAT"
             }
           }
         ]
@@ -182,42 +198,79 @@
       "bases:Create new base": false
     }
   },
-  "active": "78aaf1ddbb7475f0",
+  "floating": {
+    "id": "3d501969906096ba",
+    "type": "floating",
+    "children": [
+      {
+        "id": "de2938de4c5357ee",
+        "type": "window",
+        "children": [
+          {
+            "id": "2297ac8ee06ce124",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "19d8f21c94273749",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Papers/2 - Risk-Sensitive RL/A Distributional Perspective on Reinforcement Learning.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "A Distributional Perspective on Reinforcement Learning"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 877,
+        "y": 25,
+        "width": 1043,
+        "height": 1055,
+        "maximize": false,
+        "zoom": 2
+      }
+    ]
+  },
+  "active": "1f5deb3c54af4a0c",
   "lastOpenFiles": [
-    "Papers/4 - Kelly + Uncertainty/Distributional Robust Kelly Strategy - Optimal Strategy under Uncertainty in the Long-Run.pdf",
+    "Formulas/Raw Formulas/2 - Risk-Sensitive RL/A Distributional Perspective on Reinforcement Learning/3.1 - Transition Operator (M. Bellemare et al., 2017).md",
+    "Formulas/Raw Formulas/2 - Risk-Sensitive RL/A Distributional Perspective on Reinforcement Learning/0 - Reading Order.md",
+    "Formulas/Raw Formulas/2 - Risk-Sensitive RL/A Distributional Perspective on Reinforcement Learning/1.0 - Value Function (M. Bellemare et al., 2017).md",
+    "Notes/Paper Notes/2 - Risk-Sensitive RL/PNOTES - A Distributional Perspective on Reinforcement Learning.md",
+    "Papers/2 - Risk-Sensitive RL/A Distributional Perspective on Reinforcement Learning.pdf",
+    "Formulas/Raw Formulas/2 - Risk-Sensitive RL/A Distributional Perspective on Reinforcement Learning/4.1.1 - Categorical Cross-Entropy Loss (M. Bellemare et al., 2017).md",
+    "Formulas/Raw Formulas/2 - Risk-Sensitive RL/A Distributional Perspective on Reinforcement Learning/4.1 - Projected Bellman Update (M. Bellemare et al., 2017).md",
+    "Formulas/Raw Formulas/2 - Risk-Sensitive RL/A Distributional Perspective on Reinforcement Learning/4.0 - Categorical Distribution Parametrization (M. Bellemare et al., 2017).md",
+    "Formulas/Raw Formulas/2 - Risk-Sensitive RL/A Distributional Perspective on Reinforcement Learning/3.2 - Distributional Bellman Operator (M. Bellemare et al., 2017).md",
+    "Formulas/Raw Formulas/2 - Risk-Sensitive RL/A Distributional Perspective on Reinforcement Learning/3.0 - Distributional Bellman Equation (M. Bellemare et al., 2017).md",
+    "Formulas/Raw Formulas/2 - Risk-Sensitive RL/A Distributional Perspective on Reinforcement Learning/2.1 - Maximal Wasserstein Metric (M. Bellemare et al., 2017).md",
+    "Formulas/Raw Formulas/2 - Risk-Sensitive RL/A Distributional Perspective on Reinforcement Learning/2.0 - Wasserstein Metric (M. Bellemare et al., 2017).md",
+    "Formulas/Raw Formulas/2 - Risk-Sensitive RL/A Distributional Perspective on Reinforcement Learning/1.2 - Bellman Optimality Operator (M. Bellemare et al., 2017).md",
+    "Formulas/Raw Formulas/2 - Risk-Sensitive RL/A Distributional Perspective on Reinforcement Learning/1.1 - Bellman Operator (M. Bellemare et al., 2017).md",
+    "Formulas/Raw Formulas/2 - Risk-Sensitive RL/A Distributional Perspective on Reinforcement Learning",
+    "Notes/0 - Agent Instructions/PNOTES_AGENT.md",
+    "Notes/0 - Agent Instructions",
+    "Formulas/Raw Formulas/0 - Agent Instructions/FORMULA_FORMAT.md",
+    "Formulas/Raw Formulas/0 - Agent Instructions/RAW_FORMULA_AGENT.md",
+    "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/1.1 - Portfolio Value Transition (Z. Jiang et al., 2017).md",
     "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/1.1.1 - Final Portfolio Value (Compounding Objective) (Z. Jiang et al., 2017).md",
-    "Papers/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion.pdf.pdf",
-    "Papers/2 - Risk-Sensitive RL/1502.03919v2.pdf",
-    "Papers/5 - Hybrid Action RL/Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space.pdf",
-    "Papers/5 - Hybrid Action RL/Deep Reinforcement Learning in Parameterized Action Space.pdf",
-    "Papers/5 - Hybrid Action RL/Hybrid Actor-Critic Reinforcement Learning in Parameterized Action Space.pdf",
-    "Papers/4 - Kelly + Uncertainty/Optimal Betting Under Parameter Uncertainty - Improving the Kelly Criterion.pdf",
-    "Papers/4 - Kelly + Uncertainty/Risk-Constrained Kelly Gambling.pdf",
-    "Papers/4 - Kelly + Uncertainty/Modified Kelly Criteria.pdf",
-    "Papers/3 - Non-Stationary & Adversarial RL/Optimal Exploration-Exploitation in a Multi-Armed-Bandit Problem with Non-Stationary Rewards.pdf",
-    "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE/1.0 - Log-Utility Maximization Identity (Kelly, 1956).md",
     "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE/1.1 - Merton-Kelly Optimal Investment Fraction  (Merton, 1969).md",
-    "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE/3.2 - Sharpe Ratio - Evaluation Metric (Sharpe, 1966).md",
-    "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE/3.1 - Portfolio Value - Evaluation Metric (R. Liu et al., 2025).md",
-    "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE/2.1 - Bellman Equation - Q-Learning Update (R. Liu et al., 2025).md",
-    "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE/2.0 - Final Wealth Maximisation Objective (R. Liu et al., 2025).md",
-    "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE/1.3 - Cumulative Wealth Transition (R. Liu et al., 2025).md",
+    "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE/1.2 - CRRA Utility Function (R. Liu et al., 2025).md",
+    "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE/0 - Reading Order.md",
     "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/2.1 - Average Logarithmic Accumulated Return (Objective Function) (Z. Jiang et al., 2017).md",
     "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/2.0 - Log Return with Transaction Costs (Z. Jiang et al., 2017).md",
-    "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/1.2.1 - Transaction Remainder Factor (Z. Jiang et al., 2017).md",
     "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/1.2 - Evolved (Post-Market) Portfolio Weights (Z. Jiang et al., 2017).md",
     "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/1.1.2 - Logarithmic Rate of Return (Z. Jiang et al., 2017).md",
-    "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/1.1 - Portfolio Value Transition (Z. Jiang et al., 2017).md",
-    "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/1.0 - Price Relative Vector (Z. Jiang et al., 2017).md",
-    "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/0 - Reading Order.md",
-    "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE/3.0 - Logarithmic Utility - Evaluation Metric (R. Liu et al., 2025).md",
-    "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE/1.3.2 - Sum of Rewards to Wealth Identity (R. Liu et al., 2025).md",
-    "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE/1.2 - CRRA Utility Function (R. Liu et al., 2025).md",
-    "Notes/Paper Notes/Log Utility & Portfolio RL/PNOTES - A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem.md",
-    "Notes/Paper Notes/1 - Log Utility & Portfolio RL/PNOTES - Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE.md",
-    "Notes/Paper Notes/1 - Log Utility & Portfolio RL/PNOTES - A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem.md",
-    "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE/2.2 - Deterministic Policy Gradient (Silver et al., 2014).md",
-    "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE/1.3.1 - Logarithmic Reward (R. Liu et al., 2025).md",
-    "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE/0 - Reading Order.md"
+    "Papers/2 - Risk-Sensitive RL/Policy Gradient for Coherent Risk Measures.pdf",
+    "Papers/2 - Risk-Sensitive RL/Risk-Constrained Reinforcement Learning with Percentile Risk Criteria.pdf",
+    "Papers/4 - Kelly + Uncertainty/Modified Kelly Criteria.pdf",
+    "Papers/4 - Kelly + Uncertainty/Distributional Robust Kelly Strategy - Optimal Strategy under Uncertainty in the Long-Run.pdf",
+    "Papers/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion.pdf.pdf",
+    "Papers/2 - Risk-Sensitive RL/1502.03919v2.pdf",
+    "Papers/5 - Hybrid Action RL/Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space.pdf"
   ]
 }
