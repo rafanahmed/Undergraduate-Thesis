@@ -1,0 +1,7 @@
+[[1.0 - Expected Maximized Utility Under Parameter Uncertainty (R. Baker et al., 2013)]]
+- [[1.1 - Scaled Expected Utility (R. Baker et al., 2013)]]
+	- [[1.1.1 - First-Order Condition for Optimal Scaling (R. Baker et al., 2013)]]
+[[2.0 - Shrinkage Factor Approximation (R. Baker et al., 2013)]]
+- [[2.1 - Fortunate Formula (R. Baker et al., 2013)]]
+[[3.0 - General Rescaling Formula (R. Baker et al., 2013)]]
+[[4.0 - Arrow-Pratt Shrinkage Condition (R. Baker et al., 2013)]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Modified Kelly criteria/0 - Reading Order.md",
+                "file": "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Optimal Betting Under Parameter Uncertainty - Improving the Kelly Criterion/0 - Reading Order.md",
                 "mode": "source",
                 "source": false
               },
@@ -33,6 +33,16 @@
               },
               "icon": "lucide-file",
               "title": "FORMULA_FORMAT"
+            }
+          },
+          {
+            "id": "2801a0a31b83a18a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -226,10 +236,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 877,
+        "x": 397,
         "y": 25,
         "width": 1043,
-        "height": 1055,
+        "height": 875,
         "maximize": false,
         "zoom": 2
       }
@@ -237,9 +247,21 @@
   },
   "active": "1f5deb3c54af4a0c",
   "lastOpenFiles": [
+    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Optimal Betting Under Parameter Uncertainty - Improving the Kelly Criterion/4.0 - Arrow-Pratt Shrinkage Condition (R. Baker et al., 2013).md",
+    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Optimal Betting Under Parameter Uncertainty - Improving the Kelly Criterion/0 - Reading Order.md",
+    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Optimal Betting Under Parameter Uncertainty - Improving the Kelly Criterion/1.1 - Scaled Expected Utility (R. Baker et al., 2013).md",
+    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Optimal Betting Under Parameter Uncertainty - Improving the Kelly Criterion/1.0 - Expected Maximized Utility Under Parameter Uncertainty (R. Baker et al., 2013).md",
+    "Papers/2 - Risk-Sensitive RL/Risk-Constrained Reinforcement Learning with Percentile Risk Criteria.pdf",
     "Notes/Paper Notes/4 - Kelly + Uncertainty/PNOTES - Modified Kelly criteria.md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Modified Kelly criteria/5.0 - General Asymmetric Loss Function (D. Chu et al., 2018).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Modified Kelly criteria/4.1 - Modified Kelly Criterion (D. Chu et al., 2018).md",
+    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Optimal Betting Under Parameter Uncertainty - Improving the Kelly Criterion/3.0 - General Rescaling Formula (R. Baker et al., 2013).md",
+    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Optimal Betting Under Parameter Uncertainty - Improving the Kelly Criterion/2.1 - Fortunate Formula (R. Baker et al., 2013).md",
+    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Optimal Betting Under Parameter Uncertainty - Improving the Kelly Criterion/2.0 - Shrinkage Factor Approximation (R. Baker et al., 2013).md",
+    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Optimal Betting Under Parameter Uncertainty - Improving the Kelly Criterion/1.1.1 - First-Order Condition for Optimal Scaling (R. Baker et al., 2013).md",
+    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Optimal Betting Under Parameter Uncertainty - Improving the Kelly Criterion",
+    "Notes/Paper Notes/4 - Kelly + Uncertainty/PNOTES - Optimal Betting Under Parameter Uncertainty - Improving the Kelly Criterion.md",
+    "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/0 - Reading Order.md",
+    "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/1.0 - Price Relative Vector (Z. Jiang et al., 2017).md",
+    "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/1.1.1 - Final Portfolio Value (Compounding Objective) (Z. Jiang et al., 2017).md",
     "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Modified Kelly criteria/4.0 - Expected Posterior Loss (D. Chu et al., 2018).md",
     "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Modified Kelly criteria/3.0 - Beta Posterior Distribution (D. Chu et al., 2018).md",
     "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Modified Kelly criteria/2.0 - Natural Loss Function (D. Chu et al., 2018).md",
@@ -247,31 +269,18 @@
     "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Modified Kelly criteria/1.1 - Expected Log Growth (D. Chu et al., 2018).md",
     "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Modified Kelly criteria/1.0 - Profitability Condition (D. Chu et al., 2018).md",
     "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Modified Kelly criteria/0 - Reading Order.md",
+    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Modified Kelly criteria/5.0 - General Asymmetric Loss Function (D. Chu et al., 2018).md",
+    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Modified Kelly criteria/4.1 - Modified Kelly Criterion (D. Chu et al., 2018).md",
     "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Distributional Robust Kelly Strategy - Optimal Strategy under Uncertainty in the Long-Run/0 - Reading Order.md",
     "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Modified Kelly criteria",
     "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Distributional Robust Kelly Strategy - Optimal Strategy under Uncertainty in the Long-Run/6.0 - Bi-Level Optimization for Uncertainty Set Tuning (Q. Sun et al., 2021).md",
     "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Distributional Robust Kelly Strategy - Optimal Strategy under Uncertainty in the Long-Run/5.1.1.1 - Magnitude Dominance (Q. Sun et al., 2021).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Distributional Robust Kelly Strategy - Optimal Strategy under Uncertainty in the Long-Run/5.1.1 - Asymptotic Maximality (Q. Sun et al., 2021).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Distributional Robust Kelly Strategy - Optimal Strategy under Uncertainty in the Long-Run/5.1 - Accumulated Wealth Growth (Q. Sun et al., 2021).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Distributional Robust Kelly Strategy - Optimal Strategy under Uncertainty in the Long-Run/5.0 - Non-Linear Expectation Operator (Q. Sun et al., 2021).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Distributional Robust Kelly Strategy - Optimal Strategy under Uncertainty in the Long-Run/4.0 - f-Divergence Ball DRKP (Q. Sun et al., 2021).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Distributional Robust Kelly Strategy - Optimal Strategy under Uncertainty in the Long-Run/3.0 - Wasserstein Ball DRKP (Q. Sun et al., 2021).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Distributional Robust Kelly Strategy - Optimal Strategy under Uncertainty in the Long-Run/2.0 - Box DRKP (Q. Sun et al., 2021).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Distributional Robust Kelly Strategy - Optimal Strategy under Uncertainty in the Long-Run/1.1.1 - Distributional Robust Kelly Problem (Q. Sun et al., 2021).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Distributional Robust Kelly Strategy - Optimal Strategy under Uncertainty in the Long-Run/1.1 - Worst-Case Log Growth Rate (Q. Sun et al., 2021).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Distributional Robust Kelly Strategy - Optimal Strategy under Uncertainty in the Long-Run/1.0 - Mean Log Growth Rate (Q. Sun et al., 2021).md",
-    "Notes/Paper Notes/4 - Kelly + Uncertainty/PNOTES - Distributional Robust Kelly Strategy Optimal Strategy under Uncertainty in the Long-Run.md",
     "Papers/2 - Risk-Sensitive RL/A Distributional Perspective on Reinforcement Learning.pdf",
-    "Formulas/Raw Formulas/3 - Non-Stationary & Adversarial RL/Optimal Exploration-Exploitation in a Multi-Armed-Bandit Problem with Non-Stationary Rewards/8.0 - Envelope Policy Selection (O. Besbes et al., 2019).md",
-    "Formulas/Raw Formulas/3 - Non-Stationary & Adversarial RL/Optimal Exploration-Exploitation in a Multi-Armed-Bandit Problem with Non-Stationary Rewards/7.0 - Misspecification Bound (O. Besbes et al., 2019).md",
-    "Formulas/Raw Formulas/3 - Non-Stationary & Adversarial RL/Optimal Exploration-Exploitation in a Multi-Armed-Bandit Problem with Non-Stationary Rewards/6.0 - Exp3.S Weight Update (O. Besbes et al., 2019).md",
     "Formulas/Raw Formulas/3 - Non-Stationary & Adversarial RL/Optimal Exploration-Exploitation in a Multi-Armed-Bandit Problem with Non-Stationary Rewards",
     "Formulas/Raw Formulas/Optimal Exploration-Exploitation in a Multi-Armed-Bandit Problem with Non-Stationary Rewards",
     "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Distributional Robust Kelly Strategy - Optimal Strategy under Uncertainty in the Long-Run",
     "Formulas/Raw Formulas/4 - Kelly + Uncertainty",
     "Papers/3 - Non-Stationary & Adversarial RL/Optimal Exploration-Exploitation in a Multi-Armed-Bandit Problem with Non-Stationary Rewards.pdf",
-    "Formulas/Raw Formulas/2 - Risk-Sensitive RL/Risk-Constrained Reinforcement Learning with Percentile Risk Criteria",
-    "Papers/2 - Risk-Sensitive RL/Policy Gradient for Coherent Risk Measures.pdf",
-    "Formulas/Raw Formulas/2 - Risk-Sensitive RL/Policy Gradient for Coherent Risk Measures"
+    "Formulas/Raw Formulas/2 - Risk-Sensitive RL/Risk-Constrained Reinforcement Learning with Percentile Risk Criteria"
   ]
 }
