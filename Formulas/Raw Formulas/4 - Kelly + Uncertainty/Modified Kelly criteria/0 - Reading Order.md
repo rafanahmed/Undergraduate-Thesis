@@ -1,0 +1,8 @@
+[[1.0 - Profitability Condition (D. Chu et al., 2018)]]
+- [[1.1 - Expected Log Growth (D. Chu et al., 2018)]]
+	- [[1.1.1 - Kelly Criterion (D. Chu et al., 2018)]]
+[[2.0 - Natural Loss Function (D. Chu et al., 2018)]]
+[[3.0 - Beta Posterior Distribution (D. Chu et al., 2018)]]
+[[4.0 - Expected Posterior Loss (D. Chu et al., 2018)]]
+- [[4.1 - Modified Kelly Criterion (D. Chu et al., 2018)]]
+[[5.0 - General Asymmetric Loss Function (D. Chu et al., 2018)]]
