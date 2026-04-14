@@ -1,0 +1,7 @@
+[[1.0 - Hybrid Action Space (J. Xiong et al., 2018)]]
+- [[1.1 - Hybrid Bellman Equation (J. Xiong et al., 2018)]]
+	- [[1.1.1 - Deterministic Policy Approximation (J. Xiong et al., 2018)]]
+[[2.0 - n-step Target (J. Xiong et al., 2018)]]
+- [[2.1 - Value Network Loss (J. Xiong et al., 2018)]]
+[[3.0 - Policy Network Loss (J. Xiong et al., 2018)]]
+[[4.0 - KOG Reward Function (J. Xiong et al., 2018)]]

@@ -8,45 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f5deb3c54af4a0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion/7.0 - Power Utility Bayesian Control (Browne & Whitt, 1996).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7.0 - Power Utility Bayesian Control (Browne & Whitt, 1996)"
-            }
-          },
-          {
             "id": "78aaf1ddbb7475f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Risk-Constrained Kelly Gambling/4.0 - QRCK Formulation (E. Busseti et al., 2016).md",
-                "mode": "source",
-                "source": false
+                "file": "Papers/4 - Kelly + Uncertainty/Risk-Constrained Kelly Gambling.pdf"
               },
-              "icon": "lucide-file",
-              "title": "4.0 - QRCK Formulation (E. Busseti et al., 2016)"
+              "icon": "lucide-file-text",
+              "title": "Risk-Constrained Kelly Gambling"
             }
           },
           {
             "id": "6026e08c7fa9a506",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Formulas/Raw Formulas/5 - Hybrid Action RL/Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space/4.0 - KOG Reward Function (J. Xiong et al., 2018).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.0 - KOG Reward Function (J. Xiong et al., 2018)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,41 +199,41 @@
   },
   "active": "6026e08c7fa9a506",
   "lastOpenFiles": [
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Risk-Constrained Kelly Gambling/4.0 - QRCK Formulation (E. Busseti et al., 2016).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Risk-Constrained Kelly Gambling/0 - Reading Order.md",
-    "Notes/Paper Notes/4 - Kelly + Uncertainty/PNOTES - Risk-Constrained Kelly Gambling.md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Risk-Constrained Kelly Gambling/3.1 - RCK Optimality Conditions (E. Busseti et al., 2016).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Risk-Constrained Kelly Gambling/3.0 - Risk-Constrained Kelly Gambling Problem (E. Busseti et al., 2016).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Risk-Constrained Kelly Gambling/2.0 - Drawdown Risk Bound (E. Busseti et al., 2016).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Risk-Constrained Kelly Gambling/1.1 - Kelly Gambling Problem (E. Busseti et al., 2016).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Risk-Constrained Kelly Gambling/1.0 - Expected Growth Rate (E. Busseti et al., 2016).md",
+    "Notes/Paper Notes/5 - Hybrid Action RL/PNOTES - Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space.md",
+    "Formulas/Raw Formulas/5 - Hybrid Action RL/Hybrid Actor-Critic Reinforcement Learning in Parameterized Action Space/1.0 - Bellman Equation (Z. Fan et al., 2019).md",
+    "Formulas/Raw Formulas/5 - Hybrid Action RL/Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space/0 - Reading Order.md",
+    "Formulas/Raw Formulas/5 - Hybrid Action RL/Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space/4.0 - KOG Reward Function (J. Xiong et al., 2018).md",
+    "Formulas/Raw Formulas/5 - Hybrid Action RL/Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space/3.0 - Policy Network Loss (J. Xiong et al., 2018).md",
+    "Formulas/Raw Formulas/5 - Hybrid Action RL/Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space/2.1 - Value Network Loss (J. Xiong et al., 2018).md",
+    "Formulas/Raw Formulas/5 - Hybrid Action RL/Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space/2.0 - n-step Target (J. Xiong et al., 2018).md",
+    "Formulas/Raw Formulas/5 - Hybrid Action RL/Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space/1.1.1 - Deterministic Policy Approximation (J. Xiong et al., 2018).md",
+    "Formulas/Raw Formulas/5 - Hybrid Action RL/Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space/1.1 - Hybrid Bellman Equation (J. Xiong et al., 2018).md",
+    "Formulas/Raw Formulas/5 - Hybrid Action RL/Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space/1.0 - Hybrid Action Space (J. Xiong et al., 2018).md",
+    "Formulas/Raw Formulas/5 - Hybrid Action RL/Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space",
+    "Formulas/Raw Formulas/5 - Hybrid Action RL/Hybrid Actor-Critic Reinforcement Learning in Parameterized Action Space/0 - Reading Order.md",
+    "Formulas/Raw Formulas/5 - Hybrid Action RL/Deep Reinforcement Learning in Parameterized Action Space/0 - Reading Order.md",
+    "Notes/Paper Notes/5 - Hybrid Action RL/PNOTES - Hybrid Actor-Critic Reinforcement Learning in Parameterized Action Space.md",
+    "Formulas/Raw Formulas/5 - Hybrid Action RL/Hybrid Actor-Critic Reinforcement Learning in Parameterized Action Space/6.2 - Continuous Clipped Objective (Z. Fan et al., 2019).md",
+    "Notes/Paper Notes/5 - Hybrid Action RL/PNOTES - Deep Reinforcement Learning in Parameterized Action Space.md",
+    "Formulas/Raw Formulas/5 - Hybrid Action RL/Hybrid Actor-Critic Reinforcement Learning in Parameterized Action Space/6.1 - Discrete Clipped Objective (Z. Fan et al., 2019).md",
+    "Formulas/Raw Formulas/5 - Hybrid Action RL/Hybrid Actor-Critic Reinforcement Learning in Parameterized Action Space/6.0 - Clipped Surrogate Objective (Z. Fan et al., 2019).md",
+    "Formulas/Raw Formulas/5 - Hybrid Action RL/Hybrid Actor-Critic Reinforcement Learning in Parameterized Action Space/5.0 - Variance-Reduced Advantage Estimator (Z. Fan et al., 2019).md",
+    "Formulas/Raw Formulas/5 - Hybrid Action RL/Hybrid Actor-Critic Reinforcement Learning in Parameterized Action Space/4.1 - Over-Parameterization Identity (Z. Fan et al., 2019).md",
+    "Formulas/Raw Formulas/5 - Hybrid Action RL/Hybrid Actor-Critic Reinforcement Learning in Parameterized Action Space/4.0 - Parameterized Action Space (Z. Fan et al., 2019).md",
+    "Formulas/Raw Formulas/5 - Hybrid Action RL/Hybrid Actor-Critic Reinforcement Learning in Parameterized Action Space/3.0 - Deterministic Policy Gradient (Z. Fan et al., 2019).md",
+    "Formulas/Raw Formulas/5 - Hybrid Action RL/Hybrid Actor-Critic Reinforcement Learning in Parameterized Action Space/2.1 - Advantage-Based Policy Gradient (Z. Fan et al., 2019).md",
+    "Formulas/Raw Formulas/5 - Hybrid Action RL/Hybrid Actor-Critic Reinforcement Learning in Parameterized Action Space/2.0 - Stochastic Policy Gradient (Z. Fan et al., 2019).md",
+    "Formulas/Raw Formulas/5 - Hybrid Action RL/Hybrid Actor-Critic Reinforcement Learning in Parameterized Action Space",
     "Papers/5 - Hybrid Action RL/Deep Reinforcement Learning in Parameterized Action Space.pdf",
+    "Formulas/Raw Formulas/5 - Hybrid Action RL/Deep Reinforcement Learning in Parameterized Action Space/6.0 - Inverting Gradients (M. Hausknecht & P. Stone, 2016).md",
+    "Formulas/Raw Formulas/5 - Hybrid Action RL/Deep Reinforcement Learning in Parameterized Action Space/5.0 - Zeroing Gradients (M. Hausknecht & P. Stone, 2016).md",
+    "Formulas/Raw Formulas/5 - Hybrid Action RL/Deep Reinforcement Learning in Parameterized Action Space/4.2 - Target Network Soft Updates (M. Hausknecht & P. Stone, 2016).md",
+    "Formulas/Raw Formulas/5 - Hybrid Action RL/Deep Reinforcement Learning in Parameterized Action Space",
+    "Papers/4 - Kelly + Uncertainty/Risk-Constrained Kelly Gambling.pdf",
     "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Risk-Constrained Kelly Gambling",
     "Papers/5 - Hybrid Action RL/Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space.pdf",
-    "Papers/4 - Kelly + Uncertainty/Risk-Constrained Kelly Gambling.pdf",
-    "Formulas/Raw Formulas/0 - Agent Instructions/FORMULA_FORMAT.md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion/7.0 - Power Utility Bayesian Control (Browne & Whitt, 1996).md",
     "Papers/2 - Risk-Sensitive RL/A Distributional Perspective on Reinforcement Learning.pdf",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion/0 - Reading Order.md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Optimal Betting Under Parameter Uncertainty - Improving the Kelly Criterion/0 - Reading Order.md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion/6.0 - Bayesian Portfolio Control (Browne & Whitt, 1996).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion/5.1.1 - Financial Value of Learning (Browne & Whitt, 1996).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion/5.1 - Bayesian Value Function (Browne & Whitt, 1996).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion/5.0 - Optimal Bayesian Gambling Control (Browne & Whitt, 1996).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion/4.1 - Filtered Diffusion SDE (Browne & Whitt, 1996).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion/4.0 - Posterior Mean of Random Drift (Browne & Whitt, 1996).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion/3.1 - Discrete Bayesian Kelly Rule (Browne & Whitt, 1996).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion/3.0 - Beta Prior and Posterior Update (Browne & Whitt, 1996).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion/2.2 - Continuous-Time Value Function (Browne & Whitt, 1996).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion/2.1 - Continuous-Time Kelly Fraction (Browne & Whitt, 1996).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion/2.0 - Continuous-Time Wealth SDE (Browne & Whitt, 1996).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion/1.1.1 - Maximum Growth Rate (Browne & Whitt, 1996).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion/1.1 - Classical Kelly Fraction (Browne & Whitt, 1996).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion/1.0 - Multiplicative Wealth Dynamic (Browne & Whitt, 1996).md",
     "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion",
-    "Papers/2 - Risk-Sensitive RL/Risk-Constrained Reinforcement Learning with Percentile Risk Criteria.pdf",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Optimal Betting Under Parameter Uncertainty - Improving the Kelly Criterion",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Modified Kelly criteria",
-    "Formulas/Raw Formulas/3 - Non-Stationary & Adversarial RL/Optimal Exploration-Exploitation in a Multi-Armed-Bandit Problem with Non-Stationary Rewards"
+    "Papers/2 - Risk-Sensitive RL/Risk-Constrained Reinforcement Learning with Percentile Risk Criteria.pdf"
   ]
 }
