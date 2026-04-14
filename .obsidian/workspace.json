@@ -27,16 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formulas/Raw Formulas/0 - Agent Instructions/FORMULA_FORMAT.md",
+                "file": "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Risk-Constrained Kelly Gambling/4.0 - QRCK Formulation (E. Busseti et al., 2016).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FORMULA_FORMAT"
+              "title": "4.0 - QRCK Formulation (E. Busseti et al., 2016)"
             }
           },
           {
-            "id": "2801a0a31b83a18a",
+            "id": "6026e08c7fa9a506",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -45,7 +45,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,48 +209,25 @@
       "bases:Create new base": false
     }
   },
-  "floating": {
-    "id": "3d501969906096ba",
-    "type": "floating",
-    "children": [
-      {
-        "id": "de2938de4c5357ee",
-        "type": "window",
-        "children": [
-          {
-            "id": "2297ac8ee06ce124",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "19d8f21c94273749",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Papers/2 - Risk-Sensitive RL/A Distributional Perspective on Reinforcement Learning.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "A Distributional Perspective on Reinforcement Learning"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 397,
-        "y": 25,
-        "width": 1043,
-        "height": 875,
-        "maximize": false,
-        "zoom": 2
-      }
-    ]
-  },
-  "active": "1f5deb3c54af4a0c",
+  "active": "6026e08c7fa9a506",
   "lastOpenFiles": [
+    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Risk-Constrained Kelly Gambling/4.0 - QRCK Formulation (E. Busseti et al., 2016).md",
+    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Risk-Constrained Kelly Gambling/0 - Reading Order.md",
+    "Notes/Paper Notes/4 - Kelly + Uncertainty/PNOTES - Risk-Constrained Kelly Gambling.md",
+    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Risk-Constrained Kelly Gambling/3.1 - RCK Optimality Conditions (E. Busseti et al., 2016).md",
+    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Risk-Constrained Kelly Gambling/3.0 - Risk-Constrained Kelly Gambling Problem (E. Busseti et al., 2016).md",
+    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Risk-Constrained Kelly Gambling/2.0 - Drawdown Risk Bound (E. Busseti et al., 2016).md",
+    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Risk-Constrained Kelly Gambling/1.1 - Kelly Gambling Problem (E. Busseti et al., 2016).md",
+    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Risk-Constrained Kelly Gambling/1.0 - Expected Growth Rate (E. Busseti et al., 2016).md",
+    "Papers/5 - Hybrid Action RL/Deep Reinforcement Learning in Parameterized Action Space.pdf",
+    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Risk-Constrained Kelly Gambling",
+    "Papers/5 - Hybrid Action RL/Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space.pdf",
+    "Papers/4 - Kelly + Uncertainty/Risk-Constrained Kelly Gambling.pdf",
+    "Formulas/Raw Formulas/0 - Agent Instructions/FORMULA_FORMAT.md",
+    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion/7.0 - Power Utility Bayesian Control (Browne & Whitt, 1996).md",
+    "Papers/2 - Risk-Sensitive RL/A Distributional Perspective on Reinforcement Learning.pdf",
     "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion/0 - Reading Order.md",
     "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Optimal Betting Under Parameter Uncertainty - Improving the Kelly Criterion/0 - Reading Order.md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion/7.0 - Power Utility Bayesian Control (Browne & Whitt, 1996).md",
     "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion/6.0 - Bayesian Portfolio Control (Browne & Whitt, 1996).md",
     "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion/5.1.1 - Financial Value of Learning (Browne & Whitt, 1996).md",
     "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion/5.1 - Bayesian Value Function (Browne & Whitt, 1996).md",
@@ -265,23 +243,9 @@
     "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion/1.1 - Classical Kelly Fraction (Browne & Whitt, 1996).md",
     "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion/1.0 - Multiplicative Wealth Dynamic (Browne & Whitt, 1996).md",
     "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion",
-    "Notes/Paper Notes/4 - Kelly + Uncertainty/PNOTES - Portfolio Choice and the Bayesian Kelly Criterion.md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Optimal Betting Under Parameter Uncertainty - Improving the Kelly Criterion/4.0 - Arrow-Pratt Shrinkage Condition (R. Baker et al., 2013).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Optimal Betting Under Parameter Uncertainty - Improving the Kelly Criterion/1.1 - Scaled Expected Utility (R. Baker et al., 2013).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Optimal Betting Under Parameter Uncertainty - Improving the Kelly Criterion/1.0 - Expected Maximized Utility Under Parameter Uncertainty (R. Baker et al., 2013).md",
     "Papers/2 - Risk-Sensitive RL/Risk-Constrained Reinforcement Learning with Percentile Risk Criteria.pdf",
-    "Notes/Paper Notes/4 - Kelly + Uncertainty/PNOTES - Modified Kelly criteria.md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Optimal Betting Under Parameter Uncertainty - Improving the Kelly Criterion/3.0 - General Rescaling Formula (R. Baker et al., 2013).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Optimal Betting Under Parameter Uncertainty - Improving the Kelly Criterion/2.1 - Fortunate Formula (R. Baker et al., 2013).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Optimal Betting Under Parameter Uncertainty - Improving the Kelly Criterion/2.0 - Shrinkage Factor Approximation (R. Baker et al., 2013).md",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Optimal Betting Under Parameter Uncertainty - Improving the Kelly Criterion/1.1.1 - First-Order Condition for Optimal Scaling (R. Baker et al., 2013).md",
     "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Optimal Betting Under Parameter Uncertainty - Improving the Kelly Criterion",
     "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Modified Kelly criteria",
-    "Papers/2 - Risk-Sensitive RL/A Distributional Perspective on Reinforcement Learning.pdf",
-    "Formulas/Raw Formulas/3 - Non-Stationary & Adversarial RL/Optimal Exploration-Exploitation in a Multi-Armed-Bandit Problem with Non-Stationary Rewards",
-    "Formulas/Raw Formulas/Optimal Exploration-Exploitation in a Multi-Armed-Bandit Problem with Non-Stationary Rewards",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Distributional Robust Kelly Strategy - Optimal Strategy under Uncertainty in the Long-Run",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty",
-    "Papers/3 - Non-Stationary & Adversarial RL/Optimal Exploration-Exploitation in a Multi-Armed-Bandit Problem with Non-Stationary Rewards.pdf"
+    "Formulas/Raw Formulas/3 - Non-Stationary & Adversarial RL/Optimal Exploration-Exploitation in a Multi-Armed-Bandit Problem with Non-Stationary Rewards"
   ]
 }
