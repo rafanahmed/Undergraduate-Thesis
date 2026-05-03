@@ -2,7 +2,7 @@
 
 # **Abstract:**
 
-The paper extends policy gradient methods to the entire class of **coherent risk measures** — risk measures satisfying the four axioms of convexity, monotonicity, translation invariance, and positive homogeneity. Prior work on risk-sensitive policy gradients addressed specific risk measures (variance, CVaR) in isolation; this paper provides a *unified* framework that subsumes those results as special cases.
+The paper extends policy gradient methods to the entire class of **coherent risk measures** — risk measures satisfying the four axioms of convexity, monotonicity, translation invariance, and positive homogeneity. Prior work on risk-sensitive policy gradients addressed specific risk measures (variance, CVaR) in isolation; <u>this paper provides a unified framework that subsumes those results as special cases.</u>
 
 - Two problem settings are addressed:
 	- **Static coherent risk** of the total discounted return from an MDP — optimized via a sampling-based gradient formula derived from the **Envelope Theorem**.
@@ -16,17 +16,21 @@ The paper extends policy gradient methods to the entire class of **coherent risk
 
 # 1. Introduction
 
-The paper motivates the shift from risk-neutral to risk-sensitive RL by identifying a fundamental limitation: standard RL minimizes *expected* cost, ignoring cost variability. In domains like finance, robotics, and operations research, variability management is as important as mean optimization.
+The paper motivates the shift from risk-neutral to risk-sensitive RL by identifying a fundamental limitation: 
+- **Standard RL minimizes *expected* cost, ignoring cost variability.** 
+	- In domains like finance, robotics, and operations research, variability management is as important as mean optimization.
 
 - Existing risk-sensitive RL approaches are fragmented:
 	- Exponential utility functions (Borkar, 2001)
 	- Mean-variance models (Moody & Saffell, 2001; Tamar et al., 2012; Prashanth & Ghavamzadeh, 2013)
 	- CVaR in the static setting (Chow & Ghavamzadeh, 2014; Tamar et al., 2015)
 	- Dynamic coherent risk for linear dynamics only (Petrik & Subramanian, 2012; Chow & Pavone, 2014)
-- The paper argues that the *choice* of risk measure is problem-dependent and should not be hardcoded. The coherent risk axioms (Artzner et al., 1999) identify a principled class of measures that satisfy basic rationality requirements.
+- <u>The paper argues that the choice of risk measure is problem-dependent and should not be hardcoded.</u> 
+- The coherent risk axioms (Artzner et al., 1999) identify a principled class of measures that satisfy basic rationality requirements.
 
 - *Context*:
-	- The fragmentation problem is real and costly: each prior paper derived its own gradient formula from scratch for its chosen risk measure, with no reusable structure. By targeting the entire coherent class, this paper provides a *template* — derive the risk envelope for your chosen measure, plug it into the general formula, and obtain a gradient estimator. This is the risk-sensitive analogue of how the standard Policy Gradient Theorem provides a template for all expected-return objectives.
+	- The fragmentation problem is real and costly: each prior paper derived its own gradient formula from scratch for its chosen risk measure, **with no reusable structure.** 
+	- By targeting the entire coherent class, this paper provides a *template* — derive the risk envelope for your chosen measure, plug it into the general formula, and obtain a gradient estimator. This is the risk-sensitive analogue of how the standard Policy Gradient Theorem provides a template for all expected-return objectives.
 
 For sequential decision problems, the paper also requires **time consistency**: if a policy is risk-optimal for an $n$-stage problem, the sub-policy from stage $t < n$ onward must also be risk-optimal. The class of **Markov coherent risk measures** (Ruszczyński, 2010) satisfies both coherence and time consistency.
 

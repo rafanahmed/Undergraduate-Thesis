@@ -8,33 +8,131 @@
         "type": "tabs",
         "children": [
           {
-            "id": "78aaf1ddbb7475f0",
+            "id": "89b418e33d3d2f8e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Papers/4 - Kelly + Uncertainty/Risk-Constrained Kelly Gambling.pdf"
+                "file": "Papers/2 - Risk-Sensitive RL/A Distributional Perspective on Reinforcement Learning.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Risk-Constrained Kelly Gambling"
+              "title": "A Distributional Perspective on Reinforcement Learning"
             }
           },
           {
-            "id": "6026e08c7fa9a506",
+            "id": "d84853b38521a90a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Papers/2 - Risk-Sensitive RL/A Distributional Perspective on Reinforcement Learning.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "A Distributional Perspective on Reinforcement Learning"
+            }
+          },
+          {
+            "id": "f87e89a3e9e6da7f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Papers/2 - Risk-Sensitive RL/Risk-Constrained Reinforcement Learning with Percentile Risk Criteria.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Risk-Constrained Reinforcement Learning with Percentile Risk Criteria"
+            }
+          },
+          {
+            "id": "3e20ff9bdbf64eca",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Papers/1 - Log Utility & Portfolio RL/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem"
+            }
+          },
+          {
+            "id": "1623cc7e0c6b5746",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Papers/1 - Log Utility & Portfolio RL/Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE"
+            }
+          },
+          {
+            "id": "6f9efd154b4c181d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Papers/5 - Hybrid Action RL/Deep Reinforcement Learning in Parameterized Action Space.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Deep Reinforcement Learning in Parameterized Action Space"
+            }
+          },
+          {
+            "id": "4142a72963235787",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Papers/5 - Hybrid Action RL/Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space"
+            }
+          },
+          {
+            "id": "c82b576388f5090a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formulas/Raw Formulas/5 - Hybrid Action RL/Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space/4.0 - KOG Reward Function (J. Xiong et al., 2018).md",
+                "file": "Deliverables/042426/Action Items 042426.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.0 - KOG Reward Function (J. Xiong et al., 2018)"
+              "title": "Action Items 042426"
+            }
+          },
+          {
+            "id": "a8a62a0aeaac6f81",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Papers/4 - Kelly + Uncertainty/Optimal Betting Under Parameter Uncertainty - Improving the Kelly Criterion.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Optimal Betting Under Parameter Uncertainty - Improving the Kelly Criterion"
+            }
+          },
+          {
+            "id": "f43164b334256778",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - MASTER/042326 notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "042326 notes"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -91,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 200
   },
   "right": {
     "id": "3134101d07aab2e1",
@@ -197,43 +295,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "6026e08c7fa9a506",
+  "active": "c82b576388f5090a",
   "lastOpenFiles": [
-    "Notes/Paper Notes/5 - Hybrid Action RL/PNOTES - Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space.md",
-    "Formulas/Raw Formulas/5 - Hybrid Action RL/Hybrid Actor-Critic Reinforcement Learning in Parameterized Action Space/1.0 - Bellman Equation (Z. Fan et al., 2019).md",
-    "Formulas/Raw Formulas/5 - Hybrid Action RL/Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space/0 - Reading Order.md",
-    "Formulas/Raw Formulas/5 - Hybrid Action RL/Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space/4.0 - KOG Reward Function (J. Xiong et al., 2018).md",
-    "Formulas/Raw Formulas/5 - Hybrid Action RL/Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space/3.0 - Policy Network Loss (J. Xiong et al., 2018).md",
-    "Formulas/Raw Formulas/5 - Hybrid Action RL/Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space/2.1 - Value Network Loss (J. Xiong et al., 2018).md",
-    "Formulas/Raw Formulas/5 - Hybrid Action RL/Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space/2.0 - n-step Target (J. Xiong et al., 2018).md",
-    "Formulas/Raw Formulas/5 - Hybrid Action RL/Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space/1.1.1 - Deterministic Policy Approximation (J. Xiong et al., 2018).md",
-    "Formulas/Raw Formulas/5 - Hybrid Action RL/Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space/1.1 - Hybrid Bellman Equation (J. Xiong et al., 2018).md",
-    "Formulas/Raw Formulas/5 - Hybrid Action RL/Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space/1.0 - Hybrid Action Space (J. Xiong et al., 2018).md",
-    "Formulas/Raw Formulas/5 - Hybrid Action RL/Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space",
-    "Formulas/Raw Formulas/5 - Hybrid Action RL/Hybrid Actor-Critic Reinforcement Learning in Parameterized Action Space/0 - Reading Order.md",
-    "Formulas/Raw Formulas/5 - Hybrid Action RL/Deep Reinforcement Learning in Parameterized Action Space/0 - Reading Order.md",
-    "Notes/Paper Notes/5 - Hybrid Action RL/PNOTES - Hybrid Actor-Critic Reinforcement Learning in Parameterized Action Space.md",
-    "Formulas/Raw Formulas/5 - Hybrid Action RL/Hybrid Actor-Critic Reinforcement Learning in Parameterized Action Space/6.2 - Continuous Clipped Objective (Z. Fan et al., 2019).md",
-    "Notes/Paper Notes/5 - Hybrid Action RL/PNOTES - Deep Reinforcement Learning in Parameterized Action Space.md",
-    "Formulas/Raw Formulas/5 - Hybrid Action RL/Hybrid Actor-Critic Reinforcement Learning in Parameterized Action Space/6.1 - Discrete Clipped Objective (Z. Fan et al., 2019).md",
-    "Formulas/Raw Formulas/5 - Hybrid Action RL/Hybrid Actor-Critic Reinforcement Learning in Parameterized Action Space/6.0 - Clipped Surrogate Objective (Z. Fan et al., 2019).md",
-    "Formulas/Raw Formulas/5 - Hybrid Action RL/Hybrid Actor-Critic Reinforcement Learning in Parameterized Action Space/5.0 - Variance-Reduced Advantage Estimator (Z. Fan et al., 2019).md",
-    "Formulas/Raw Formulas/5 - Hybrid Action RL/Hybrid Actor-Critic Reinforcement Learning in Parameterized Action Space/4.1 - Over-Parameterization Identity (Z. Fan et al., 2019).md",
-    "Formulas/Raw Formulas/5 - Hybrid Action RL/Hybrid Actor-Critic Reinforcement Learning in Parameterized Action Space/4.0 - Parameterized Action Space (Z. Fan et al., 2019).md",
-    "Formulas/Raw Formulas/5 - Hybrid Action RL/Hybrid Actor-Critic Reinforcement Learning in Parameterized Action Space/3.0 - Deterministic Policy Gradient (Z. Fan et al., 2019).md",
-    "Formulas/Raw Formulas/5 - Hybrid Action RL/Hybrid Actor-Critic Reinforcement Learning in Parameterized Action Space/2.1 - Advantage-Based Policy Gradient (Z. Fan et al., 2019).md",
-    "Formulas/Raw Formulas/5 - Hybrid Action RL/Hybrid Actor-Critic Reinforcement Learning in Parameterized Action Space/2.0 - Stochastic Policy Gradient (Z. Fan et al., 2019).md",
-    "Formulas/Raw Formulas/5 - Hybrid Action RL/Hybrid Actor-Critic Reinforcement Learning in Parameterized Action Space",
+    "Deliverables/042426/Problem Statement Iteration 1 4_24_26.pdf",
+    "0 - MASTER/041426 Notes.md",
+    "0 - MASTER/041626 Notes.md",
+    "0 - MASTER/042326 notes.md",
+    "Deliverables/042426/Action Items 042426.md",
+    "Deliverables/042426",
+    "Papers/4 - Kelly + Uncertainty/Distributional Robust Kelly Strategy - Optimal Strategy under Uncertainty in the Long-Run.pdf",
+    "Deliverables",
+    "Papers/4 - Kelly + Uncertainty/Optimal Betting Under Parameter Uncertainty - Improving the Kelly Criterion.pdf",
     "Papers/5 - Hybrid Action RL/Deep Reinforcement Learning in Parameterized Action Space.pdf",
-    "Formulas/Raw Formulas/5 - Hybrid Action RL/Deep Reinforcement Learning in Parameterized Action Space/6.0 - Inverting Gradients (M. Hausknecht & P. Stone, 2016).md",
-    "Formulas/Raw Formulas/5 - Hybrid Action RL/Deep Reinforcement Learning in Parameterized Action Space/5.0 - Zeroing Gradients (M. Hausknecht & P. Stone, 2016).md",
-    "Formulas/Raw Formulas/5 - Hybrid Action RL/Deep Reinforcement Learning in Parameterized Action Space/4.2 - Target Network Soft Updates (M. Hausknecht & P. Stone, 2016).md",
-    "Formulas/Raw Formulas/5 - Hybrid Action RL/Deep Reinforcement Learning in Parameterized Action Space",
-    "Papers/4 - Kelly + Uncertainty/Risk-Constrained Kelly Gambling.pdf",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Risk-Constrained Kelly Gambling",
-    "Papers/5 - Hybrid Action RL/Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space.pdf",
+    "Papers/1 - Log Utility & Portfolio RL/Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE.pdf",
     "Papers/2 - Risk-Sensitive RL/A Distributional Perspective on Reinforcement Learning.pdf",
-    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Portfolio Choice and the Bayesian Kelly Criterion",
-    "Papers/2 - Risk-Sensitive RL/Risk-Constrained Reinforcement Learning with Percentile Risk Criteria.pdf"
+    "Papers/2 - Risk-Sensitive RL/Risk-Constrained Reinforcement Learning with Percentile Risk Criteria.pdf",
+    "Papers/1 - Log Utility & Portfolio RL/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem.pdf",
+    "Formulas/Raw Formulas/2 - Risk-Sensitive RL/A Distributional Perspective on Reinforcement Learning/1.1 - Bellman Operator (M. Bellemare et al., 2017).md",
+    "Formulas/Raw Formulas/5 - Hybrid Action RL/Parametrized Deep Q-Networks Learning - Reinforcement Learning with Discrete-Continuous Hybrid Action Space/1.1.1 - Deterministic Policy Approximation (J. Xiong et al., 2018).md",
+    "Formulas/Raw Formulas/5 - Hybrid Action RL/Deep Reinforcement Learning in Parameterized Action Space/1.0 - Parameterized Action Space (M. Hausknecht & P. Stone, 2016).md",
+    "Notes/Paper Notes/1 - Log Utility & Portfolio RL/PNOTES - Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE.md",
+    "Notes/Paper Notes/5 - Hybrid Action RL/PNOTES - Deep Reinforcement Learning in Parameterized Action Space.md",
+    "Formulas/Raw Formulas/4 - Kelly + Uncertainty/Optimal Betting Under Parameter Uncertainty - Improving the Kelly Criterion/1.0 - Expected Maximized Utility Under Parameter Uncertainty (R. Baker et al., 2013).md",
+    "Notes/Paper Notes/1 - Log Utility & Portfolio RL/PNOTES - A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem.md",
+    "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE/1.3 - Cumulative Wealth Transition (R. Liu et al., 2025).md",
+    "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/1.1 - Portfolio Value Transition (Z. Jiang et al., 2017).md",
+    "Notes/Paper Notes/2 - Risk-Sensitive RL/PNOTES - A Distributional Perspective on Reinforcement Learning.md",
+    "Notes/Paper Notes/2 - Risk-Sensitive RL/PNOTES - Risk-Constrained Reinforcement Learning with Percentile Risk Criteria.md",
+    "Formulas/Raw Formulas/2 - Risk-Sensitive RL/A Distributional Perspective on Reinforcement Learning/1.0 - Value Function (M. Bellemare et al., 2017).md",
+    "0 - MASTER/SLIDESHOW NOTES 4-24-26.md",
+    "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE/2.1 - Bellman Equation - Q-Learning Update (R. Liu et al., 2025).md",
+    "Formulas/Raw Formulas/2 - Risk-Sensitive RL/A Distributional Perspective on Reinforcement Learning/1.2 - Bellman Optimality Operator (M. Bellemare et al., 2017).md",
+    "Notes/Paper Notes/2 - Risk-Sensitive RL/PNOTES - Policy Gradient for Coherent Risk Measures.md",
+    "Formulas/Raw Formulas/2 - Risk-Sensitive RL/A Distributional Perspective on Reinforcement Learning/2.0 - Wasserstein Metric (M. Bellemare et al., 2017).md",
+    "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem/1.0 - Price Relative Vector (Z. Jiang et al., 2017).md",
+    "0 - MASTER/042126-042226 NOTES.md",
+    "0 - MASTER/djhfskjhfds.md",
+    "Formulas/Raw Formulas/1 - Log Utility & Portfolio RL/Deep Reinforcement Learning for Optimal Asset Allocation Using DDPG with TiDE/1.2 - CRRA Utility Function (R. Liu et al., 2025).md"
   ]
 }
